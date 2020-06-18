@@ -1,0 +1,12 @@
+{
+  "name": "react-typescript-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "peewee922 <pengwei922@sina.com>",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:peewee922/react-typescript-blog.git"
+  }
+}
